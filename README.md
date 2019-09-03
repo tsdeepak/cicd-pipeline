@@ -1,6 +1,6 @@
 # cicd-pipeline
 
-This is a simple train schedule app written using nodejs. It is intended to be used as a sample application .
+This is a simple train schedule app written using nodejs, It is intended to be used as a sample application .
 
 ## Running the app
 
